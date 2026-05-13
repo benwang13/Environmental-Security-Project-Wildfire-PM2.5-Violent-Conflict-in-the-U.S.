@@ -44,6 +44,7 @@ Literature Works Cited:
 - NASA. “Wildfires and Climate Change.” NASA Science, 30 Jan. 2025, https://science.nasa.gov/earth/explore/wildfires-and-climate-change/.
 - Roberts, Gareth, and Martin J. Wooster. “Global Impact of Landscape Fire Emissions on Surface Level PM2.5 Concentrations, Air Quality Exposure and Population Mortality.” Atmospheric Environment, vol. 252, 2021, article 118210. https://doi.org/10.1016/j.atmosenv.2021.118210.
 - Zhang, Min, et al. “Wildfire Smoke PM2.5 and Mortality Rate in the Contiguous United States: A Causal Modeling Study.” Science Advances, vol. 12, no. 6, 2026, pp. 1–11. https://doi.org/10.1126/sciadv.adw5890.
+
 Data Sources
 - Armed Conflict Location & Event Data Project. ACLED Conflict Data Export Tool. ACLED, https://acleddata.com/conflict-data/data-export-tool/.
 - Atmospheric Composition Analysis Group. Surface PM2.5, V5.GL.05.02 Monthly HybridPM2.5 North America. Washington University in St. Louis, https://sites.wustl.edu/acag/datasets/surface-pm2-5/.
